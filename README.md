@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y2ZDI4ZWJjODVlNjQ2MGFjYWVkYjZkNzY1OTU5MDE3NmQ3NjYwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/aMO7qmgv8mJpdSeVpV/giphy.gif" align="left" style="width: 100%" /> 
 
-<br>
+<br/> <br/> <br/> <br/> <br/> 
   
 
 ## Hello👋, my name is Ahmet.  
@@ -35,31 +35,7 @@ I am feeling depressed because I recently graduated and haven't been able to fin
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
