@@ -3,7 +3,7 @@
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
   
 
-## Hello👋, my name is Ahmet.  
+## こんにちは👋、私の名前はアイザックです。
   
 
 <a href="https://github.com/isaacpy-cloud" target="_blank">
@@ -23,13 +23,13 @@
 </a>  
   
 
-I have been doing development work since 2015. I started professionally developing software three years ago. Currently, I am working in a company affiliated with Turkish Airlines as an IT professional.I am looking for companies where I can further develop myself and work with new technologies. If you have any openings, please feel free to contact me. 🙏
+2015年から開発業務を行っています。プロとしてソフトウェア開発を始めたのは3年前です。現在、トルコ航空に関連する会社でITプロフェッショナルとして働いています。自己を更に成長させ、新しいテクノロジーで働ける企業を探しています。もしも募集があれば、お気軽にご連絡ください。🙏
 
-In addition to development, I am also proficient in design work. I have been using Photoshop for many years. Furthermore, I am skilled in using programs such as After Effects, Premiere Pro, and Illustrator.
+開発に加えて、デザイン業務にも精通しています。長年にわたりPhotoshopを使用しています。また、After Effects、Premiere Pro、Illustratorなどのプログラムもスキルを持っています。
 
-I can also handle tasks related to social media management and content creation. Currently, I am creating content for several social media accounts.
+ソーシャルメディアの管理やコンテンツ制作にも対応できます。現在、複数のソーシャルメディアアカウントのコンテンツ作成を行っています。
 
-I am feeling depressed because I recently graduated and haven't been able to find a job. If anyone is interested, please contact me.🕰️  
+最近卒業したため、仕事が見つけられずに落ち込んでいます。もし興味のある方がいれば、お気軽にご連絡ください。🕰️
   
 
 <br/>  
@@ -38,7 +38,8 @@ I am feeling depressed because I recently graduated and haven't been able to fin
 
 
 
-## Languages and Tools  
+## 言語とツール
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
